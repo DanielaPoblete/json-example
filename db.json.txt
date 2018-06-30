@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "username": "jdoe",
+      "email": "johndoe@mailer.com",
+      "password": "hello",
+      "status": "1",
+    }
+  ],
+}
